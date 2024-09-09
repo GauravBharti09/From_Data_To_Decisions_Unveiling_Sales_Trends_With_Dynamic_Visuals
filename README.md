@@ -1,6 +1,6 @@
 # From_Data_To_Decisions_Unveiling_Sales_Trends_With_Dynamic_Visuals
 
-![Dynamic Sales Dashboard]()
+![Dynamic Sales Dashboard](https://github.com/GauravBharti09/From_Data_To_Decisions_Unveiling_Sales_Trends_With_Dynamic_Visuals/blob/main/Dynamic%20Sales%20Dashboard.jpg)
 ### Objective
 To create a comprehensive Sales Dashboard that enables detailed analysis of sales data across various sub-categories, customers, and regions. The dashboard highlights key metrics such as sales by sub-category, profit trends over time, top-performing customers, statewise sales, customer count across years, and monthly sales.
 
