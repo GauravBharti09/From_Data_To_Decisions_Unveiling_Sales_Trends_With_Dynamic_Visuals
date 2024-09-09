@@ -12,7 +12,7 @@ To create a comprehensive Sales Dashboard that enables detailed analysis of sale
 
 ### Process:
 **1. Sales by Sub-Categories:**
-   * A bar chart visualizes the sales data by different sub-categories like Phones, Chairs, and Storage.
+   * The Funnel chart visualizes the sales data by different sub-categories like Phones, Chairs, and Storage.
    * Phones and chairs emerged as the top two sub-categories with sales over 300,000.
 
 **2. Profit Gained Over Time:**
